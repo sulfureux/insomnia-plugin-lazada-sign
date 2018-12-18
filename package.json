@@ -1,0 +1,30 @@
+{
+  "name": "insomnia-plugin-lazada-sign",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:sulfureux/insomnia-plugin-lazada-sign.git",
+  "author": "pierreneter <pierreneter@gmail.com>",
+  "homepage": "https://github.com/sulfureux/insomnia-plugin-lazada-sign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulfureux/insomnia-plugin-lazada-sign/issues",
+    "email": "pierreneter@gmail.com"
+  },
+  "keywords": [
+    "insomnia",
+    "lazada",
+    "sign",
+    "request",
+    "rest",
+    "test mode",
+    "api"
+  ],
+  "insomnia": {
+    "name": "insomnia-plugin-lazada-sign",
+    "description": "sign your Lazada request"
+  },
+  "dependencies": {
+    "alpha-sort": "^2.0.1",
+    "query-string": "^6.2.0"
+  }
+}
